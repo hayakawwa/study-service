@@ -1,0 +1,74 @@
+/* Rectangle 1 */
+/* Rectangle */
+/* Group 200 */
+.gr1 {
+  position: absolute;
+  width: 1094.47px;
+  height: 983.51px;
+  mix-blend-mode: color-dodge;
+  filter: blur(100px);
+}
+
+/* Vector */
+.vector1 {
+  position: absolute;
+  width: 592.34px;
+  height: 461.74px;
+  background: #7e13ab;
+  transform: matrix(0.68, -0.73, 0.84, 0.55, 0, 0);
+}
+
+/* Vector */
+.vector2 {
+  position: absolute;
+  width: 670.72px;
+  height: 265.26px;
+  background: #00d29d;
+  transform: matrix(-0.92, -0.39, 0.29, -0.96, 0, 0);
+}
+
+/* Vector */
+.vector3 {
+  position: absolute;
+  width: 791.38px;
+  height: 356.72px;
+  background: #f89c1c;
+  transform: rotate(-93.1deg);
+}
+
+/* Group 199 */
+.gr2 {
+  position: absolute;
+  width: 1160.47px;
+  height: 1023px;
+  filter: blur(100px);
+}
+
+/* Vector */
+.vector4 {
+  position: absolute;
+  width: 592.34px;
+  height: 461.74px;
+  background: #7e13ab;
+  transform: matrix(0.68, -0.73, 0.84, 0.55, 0, 0);
+}
+
+/* Vector */
+.vector5 {
+  position: absolute;
+  width: 670.72px;
+  height: 265.26px;
+  background: #00d29d;
+  transform: matrix(-0.92, -0.39, 0.29, -0.96, 0, 0);
+}
+
+/* Vector */
+.vector6 {
+  position: absolute;
+  width: 791.38px;
+  height: 356.72px;
+  background: #f89c1c;
+  transform: rotate(-93.1deg);
+}
+
+/*# sourceMappingURL=Gradient.module.css.map */

@@ -1,0 +1,59 @@
+.container {
+  height: 104px;
+  background: #2b2a29;
+}
+.container .nav {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
+.container .nav .logo {
+  padding-top: 37px;
+}
+.container .nav .menu {
+  display: flex;
+  gap: 80px;
+  padding-top: 42px;
+}
+.container .nav .menu a {
+  text-decoration: none;
+  color: white;
+}
+.container .nav .menu a:hover {
+  opacity: 0.8;
+}
+.container .nav .menu a:hover {
+  opacity: 0.6;
+}
+.container .nav .applicationContainer {
+  padding-top: 26px;
+}
+.container .nav .applicationContainer .application {
+  border-radius: 4px;
+  color: #f59d0e;
+  border: #f59d0e 1px solid;
+  padding: 16px 24px;
+}
+.container .nav .applicationContainer .application:hover {
+  opacity: 0.8;
+}
+.container .nav .applicationContainer .application:active {
+  opacity: 0.6;
+}
+.container .nav .secondMenu {
+  padding-top: 40px;
+  display: flex;
+  gap: 36px;
+}
+.container .nav .secondMenu a:hover {
+  opacity: 0.8;
+}
+.container .nav .secondMenu a:hover {
+  opacity: 0.6;
+}
+
+/*# sourceMappingURL=Header.module.css.map */

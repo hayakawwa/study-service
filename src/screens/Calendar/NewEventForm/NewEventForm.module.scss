@@ -1,0 +1,23 @@
+.content {
+	width: 100%;
+	font-family: Montserrat, sans-serif;
+	.header {
+		font-weight: 400;
+		font-size: 24px;
+		margin-bottom: 24px;
+	}
+	.inputGroup {
+		&:last-child {
+			margin-bottom: 50px;
+		}
+		margin-bottom: 24px;
+		.inputName {
+			margin-bottom: 16px;
+		}
+	}
+}
+
+.addButton {
+	margin: 0;
+	padding: 0;
+}

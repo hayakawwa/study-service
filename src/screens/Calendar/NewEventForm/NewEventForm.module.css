@@ -1,0 +1,25 @@
+.content {
+  width: 100%;
+  font-family: Montserrat, sans-serif;
+}
+.content .header {
+  font-weight: 400;
+  font-size: 24px;
+  margin-bottom: 24px;
+}
+.content .inputGroup {
+  margin-bottom: 24px;
+}
+.content .inputGroup:last-child {
+  margin-bottom: 50px;
+}
+.content .inputGroup .inputName {
+  margin-bottom: 16px;
+}
+
+.addButton {
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=NewEventForm.module.css.map */
